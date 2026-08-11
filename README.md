@@ -78,9 +78,5 @@ fintechs like Cred, Slice, and Jupiter.
 ---
 
 ## 🙋 About Me
-
 Built by **Rishi Bhuta** — Diploma in Computer Engineering student, exploring Data Analytics & ML
-Engineering. Find more of my work on [GitHub](https://github.com/RishiBhuta).
-
-*AI-assistance disclosure: parts of the code structure and vendor dictionary were built with help from
-Claude (Anthropic); all logic was tested and verified against this dataset's actual output.*
+Engineering.
