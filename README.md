@@ -27,15 +27,7 @@ formats, and vendor names buried inside cryptic UPI/POS prefixes), the notebook:
 
 Everything is printed as one clean, formatted, ASCII-bar-charted report you'd actually want to
 screenshot and share.
-
----
-
-## 🖼️ Sample Output
-
-<!-- Paste a screenshot of your final printed report here -->
-![SpendDNA sample report](./screenshot.png)
-
----
+--
 
 ## 🛠️ Tech Stack
 
